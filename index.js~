@@ -1,0 +1,14 @@
+//def update
+//@location
+//var a=1;
+//var a=#FF0000 red;
+var a=#FF0000;
+var b="222SSfgVVVVOOOOOOOOOOOvariableZZZZ"+"<br>";
+document.write(a);
+document.write(b);
+document.write(b);
+document.write(b);
+
+document.write(b);
+#f00 red
+
