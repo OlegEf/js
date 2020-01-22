@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--<meta http-equiv="refresh" content="1; " />-->
+    <link rel="stylesheet" href="m.css">
+    <title>g</title>
+  </head>
+  <body>
+<!--     <div class="header">	header</div> -->
+    <div class="contentc">
+      <ul>
+        <li> <a href="q.html">fierstasdsa pasadsge</a></li>
+        <li> <a href="w.html">second page</a></li>
+        <li> <a href="e.html">theird page</a></li>
+        <li> <a href="e.html">theird page__aazzdasasa</a></li>
+        <p>a___QQFF_ZZAAAQaaaaQAAAQQQQQa</p>
+        <p>asSSSssssXXXa</p>
+        <p>SSaAAAAAASSSSa</p>
+        <p>OOOLegaZZZZa</p>
+        <p>OOOLegaZZZZa</p>
+        <p>OOOLegaZZZZa</p>
+        <p>OOOLegaZZZZa</p>
+        <p>OOOLegaZZZZa</p>
+        <!-- <p class="as"></p> -->
+        <!-- <div class="qw"></div> -->
+      </ul>
+      <h1content>1page AAA</h1content>
+    </div>
+    <!-- <div class="side-menu">	side-menu</div> -->
+    <!-- <div class="footer">footerzzaaabbbcccddd</div> -->
+    <div class="content">
+    </div>
+    <script src="q.js"></script> 
+    <script src="w.js"></script> 
+    <!-- // <script src="q12.js"></script>  -->
+<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+    <!-- // <script src='http://127.0.0.1:9001/js/socket.js'></script> -->
+    <!-- // <script src="http://localhost:9001/ws "></script> -->
+  </body>
+</html>
