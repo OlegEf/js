@@ -11,17 +11,6 @@ var q10="<hr class=\"q10\">";
 var q11="<hr class=\"q11\">";
 var q12="<hr class=\"q12\">";
 
-// var q1='<div class=\"q';
-// var q2='\">';
-// var q3='</div>';
-// var q12="<div class="q1"></div>";
-// var w1=1;
-// var w23=23;
-// var you='You\'re right, it can\'t be \n a quote ';
-// document.write(q13,q123,q14,);
-// document.write(q1,w1,q2,you,q3,);
-// document.write(q1,w23,q2,you,q3,);
-
 var a=12;
 var a=12;
 // var br
@@ -29,11 +18,6 @@ var b="<br>";
 var b="red"+"<br>";
 document.write(q1);
 document.write(a,b);
-document.write(a,b);
-document.write(a,b);
-// document.write(a);
-// document.write(b);
-// document.write(a);
 // fcc 143 qq
 var b="<br>";
 var you='You\'re right, it can\'t be \n a quote ';
@@ -110,40 +94,67 @@ var myName = "Oleg ";
 var myStr = "My name is " +myName+ "and I am swell!";
 document.write(q1,w45,q2,myStr,q3,);
 
-
 //fcc 149
-// Example
 var anAdjective = "awesome!";
 var ourStr = "Free Code Camp is ";
 ourStr += anAdjective;
 
-// Only change code below this line
 var someAdjective = "awesome!";
 var myStr = "Learning to code is ";
 myStr += someAdjective;
 document.write(q1,w23,q2,myStr,q3,);
 document.write(q1,q9,b);
 
-//fcc 14
-document.write(q1,q9,b);
+//fcc 150
+var firstNameLength = 0;
+var firstName = "Ada";
 
-//fcc 14
-document.write(q1,q9,b);
+firstNameLength = firstName.length;
 
-//fcc 14
-document.write(q1,q9,b);
+var lastNameLength = 0;
+var lastName = "Lovelace";
+// var lastName = "Lovelaceqwqwe";
+lastName = lastName.length;
 
-//fcc 14
-document.write(q1,q9,b);
+lastNameLength = lastName;
+document.write(q1,w23,q2,lastName,q3,);
+document.write(q4,q9,b);
 
-//fcc 14
-document.write(q1,q9,b);
+//fcc 151
 
-//fcc 14
-document.write(q1,q9,b);
+// Example
+var firstLetterOfFirstName = "";
+var firstName = "Ada";
 
-//fcc 14
-document.write(q1,q9,b);
+firstLetterOfFirstName = firstName[0];
 
-//fcc 14
-document.write(q1,q9,b);
+// Setup
+var firstLetterOfLastName = "";
+var lastName = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0];
+document.write(q1,w23,q2,firstLetterOfLastName,q3,);
+// document.write(q1,w23,q2,lastName,q3,);
+document.write(q4,q9,b);
+//fcc 15
+document.write(q1,w23,q2,lastName,q3,);
+document.write(q4,q9,b);
+//fcc 15
+document.write(q1,w23,q2,lastName,q3,);
+document.write(q4,q9,b);
+//fcc 15
+document.write(q1,w23,q2,lastName,q3,);
+document.write(q4,q9,b);
+//fcc 15
+document.write(q1,w23,q2,lastName,q3,);
+document.write(q4,q9,b);
+//fcc 15
+document.write(q1,w23,q2,lastName,q3,);
+document.write(q4,q9,b);
+//fcc 15
+document.write(q1,w23,q2,lastName,q3,);
+document.write(q4,q9,b);
+//fcc 15
+document.write(q1,w23,q2,lastName,q3,);
+document.write(q4,q9,b);
