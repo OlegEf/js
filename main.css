@@ -41,7 +41,7 @@ body {
   background-color: #f00;
 }*/
 .q{  width: 123px;height: 12px; background-color: #f00;}
-.q1{  width: 123px;height: 9px; background-color: #ff0;}
+.q1{  width: auto;height: auto; background-color: #ff0;}
 .q2{  width: 123px;height: 8px; background-color: #fc4;}
 .q2{  width: 123px;height: 8px; background-color: #ff4;}
 .q3{  width: 123px;height: 7px; background-color: #ff9;}
@@ -51,6 +51,20 @@ body {
 .q7{  width: 123px;height: 5px; background-color: #03f;}
 .q8{  width: 123px;height: 5px; background-color: #30f;}
 .q9{  width: 123px;height: 5px; background-color: #50f;}
+.w11{  width: auto;height: auto; background-color: #ff0;border:2px solid #fc8;border-bottom:#fc4 2px solid;}
+.w12{  width: auto;height: auto; background-color: #ff0;border:2px solid #fc8;border-bottom:#fc4 2px solid;}
+.w23{  width: auto;height: auto; background-color: #ff0;border:2px solid #fc8;border-bottom:#fc4 2px solid;}
+.w32{  width: auto;height: auto; background-color: #ff0;border:2px solid #fc8;border-bottom:#fc4 2px solid;}
+.w34{  width: auto;height: auto; background-color: #ff0;border:2px solid #fc8;border-bottom:#fc4 2px solid;}
+.w45{  width: auto;height: auto; background-color: #5a5;border:2px solid #2f8;border-bottom:#fc4 2px solid;}
+.w54{  width: auto;height: auto; background-color: #5a5;border:2px solid #2f8;border-bottom:#fc4 2px solid;}
+.w56{  width: auto;height: auto; background-color: #5a5;border:2px solid #2f8;border-bottom:#fc4 2px solid;}
+.w65{  width: auto;height: auto; background-color: #5a5;border:2px solid #2f8;border-bottom:#fc4 2px solid;}
+.w67{  width: auto;height: auto; background-color: #5a5;border:2px solid #2f8;border-bottom:#fc4 2px solid;}
+.w45{  width: auto;height: auto; background-color: #5a5;border:2px solid #2f8;border-bottom:#fc4 2px solid;}
+.w45{  width: auto;height: auto; background-color: #5a5;border:2px solid #2f8;border-bottom:#fc4 2px solid;}
+/*.q23{  width: auto;height: auto; background-color: #ff0;border:2px solid #fc8 2px solid #0f0 2px solid #f00 2px solid #f00;}*/
+/*.q23{  width: auto;height: auto; background-color: #ff0;border-top:#fc4 2px solid; border-bottom:red;}*/
 
 /*.q2{
   width: 223px;
